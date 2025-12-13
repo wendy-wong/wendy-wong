@@ -74,6 +74,8 @@ Wendy Wong, Yuchao Jiang, Yuekang Li (Accepted poster for proceedings of SIGCSE 
 
 • LEAP Women In Engineering Top-Up Scholarship (September 2025)
 
+• AWS Data Hero (March 2023)
+
 
 # Speaking
 
