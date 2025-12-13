@@ -9,7 +9,7 @@ I am a first-year PhD student in Computer Science at The University of New South
 [Dr Yuekang Li](https://www.unsw.edu.au/staff/yuekang-li) and [Associate Professor Yulei Sui](https://www.unsw.edu.au/staff/yulei-sui). 
 My research interests include AI and Human Computer Interaction. My current work involves building LLM-based learner simulations that 
 help educators design more effective interventions to explore how AI systems can provide personalized, context-aware feedback at scale.
-My research combines generative AI, agentic frameworks, and human-centered design. 
+ 
 
 
 # Teaching
