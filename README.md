@@ -67,14 +67,6 @@ Wendy Wong, Yuchao Jiang, Yuekang Li (Accepted poster for proceedings of SIGCSE 
 	Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 5th BESC 2018: Kaohsiung, Taiwan)
 
 
-
-# Honour and Awards
-
-• LEAP Women In Engineering Top-Up Scholarship (September 2025)
-
-• AWS Data Hero (March 2023)
-
-
 # Speaking
 
 
