@@ -3,7 +3,6 @@
 ### wendy.wong@student.unsw.edu.au
 
 
-
 # About Me
 
 I am a first-year PhD student in Computer Science at The University of New South Wales advised by [Dr Yuchao Jiang](https://research.unsw.edu.au/people/ms-yuchao-jiang), 
@@ -48,13 +47,7 @@ Deliver data-driven decisions with AWS](https://www.linkedin.com/learning/delive
 
 • Co-Facilitator at PwC Digital Academy (Spring 2019)
 
-# Recent Publications
-
-• November 2025: DiverseClaire: Simulating Students to Improve Introductory Programming Course Materials for All CS1 Learners [arXiv](https://arxiv.org/abs/2511.14198) (SIGCSE TS 2026, St. Louis, MO, USA)
-
-• November 2018: Taxpayer Behavior Prediction in SMS Campaigns [IEEE](https://ieeexplore.ieee.org/document/8697317) (5th BESC 2018: Kaohsiung, Taiwan)
-
-# Membership
+# Memberships
 
 
 • WiRN Committee Member [Higher Degree Researcher Representative for Faculty of Engineering](https://www.unsw.edu.au/edi/diversity-inclusion/gender-equity/wirn-women-research-network/wirn-committee-members)(2025-2026)
@@ -63,13 +56,36 @@ Deliver data-driven decisions with AWS](https://www.linkedin.com/learning/delive
 
 • Associate at [UNSW Disability Innovation Institute](https://www.disabilityinnovation.unsw.edu.au/ms-wendy-wong) (April 2025)
 
-p-Up Scholarship (Septe• LEAP Women in Engineering (op-Up Scho)arship 3)verseClaire: Simulating Students to Improve Introductory Programming Course Materials for All CS1 Learners ](https://sigcse2026.sigcse.org/details/sigcse-ts-2026-posters/174/DiverseClaire-Simulating-Students-to-Improve-Introductory-Programming-Course-Mats-to-Improve-Introductory-Programming-Course-Materia)bruary 2026)
+
+# Recent Publications
+
+• [DiverseClaire: Simulating Students to Improve Introductory Programming Course Materials for All CS1 Learners](https://arxiv.org/abs/2511.14198) (arXiv) 
+Wendy Wong, Yuchao Jiang, Yuekang Li (Accepted poster for proceedings of SIGCSE TS 2026)
+
+![Diverseclaire 2](https://github.com/user-attachments/assets/71637b1e-e1f3-4047-95e2-4b9b0cb1b75f)
+
+
+• [Taxpayer Behavior Prediction in SMS Campaigns](https://dblp.org/db/conf/besc/besc2018.html) (IEEE)
+	Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 5th BESC 2018: Kaohsiung, Taiwan)
+
+
+
+# Honour and Awards
+
+• LEAP Women In Engineering Top-Up Scholarship (September 2025)
+
+
+# Speaking
+
 
 • Speaker for AWS Database & Analytics [AWS re:Invent 2025](https://www.linkedin.com/posts/aws-databases_awsreinvent-awsfordata-agenticai-activity-7395237736711954432-fVi7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAhwtxwBM2AtDyaKp_UAsMDaxMp2pmrjtkk) (November 2025)
 
-• Panellist at UNSW Diversity Festival and Faculty of Engineering [Disrupted Not Done Yet Protecting Inclusion In A Changing World](https://www.events.unsw.edu.au/event/not-done-yet-protecting-inclusion-changing-world) (September[Boosting• Guest Speaker at Plum Financial Solutions [Boosting Productivity in Finance and Insurance with Data Science](httpstivity inScience](httpstivity in
+• Panellist at UNSW Diversity Festival and Faculty of Engineering [Disrupted Not Done Yet Protecting Inclusion In A Changing World](https://www.events.unsw.edu.au/event/not-done-yet-protecting-inclusion-changing-world) (September 2025)
 
-• Speaker at Believe In Serverless [Analyzing Marketing Campaigns using Generative BI with Amazon Q in QuickSight](https://www.youtube.com/watch?v=H70hnKvh_ro) (September 2024)[From 
+• Guest Speaker at Plum Financial Solutions [Boosting Productivity in Finance and Insurance with Data Science](https://plumsolutions.com.au/boosting-productivity-in-finance-and-insurance-with-data-science/) (April 2025)
+
+• Speaker at Believe In Serverless [Analyzing Marketing Campaigns using Generative BI with Amazon Q in QuickSight](https://www.youtube.com/watch?v=H70hnKvh_ro) (September 2024)
+
 • Speaker at AWS User Group Kolkata [Data Engineering on Amazon Redshift Serverless with Amazon Q](https://www.linkedin.com/posts/activity-7186128977806163968-iLR7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAhwtxwBM2AtDyaKp_UAsMDaxMp2pmrjtkk) (April 2024)
 
 • Speaker at AWS Training and Certification [Data Analyst learns generative AI skills with AWS Skill Builder subscription](https://www.youtube.com/watch?v=wxXmmE0mxMU) (March 2024
@@ -88,25 +104,10 @@ p-Up Scholarship (Septe• LEAP Women in Engineering (op-Up Scho)arship 3)verseC
 
 • Speaker at AWS User Group Taiwan [2023-04 AWS User Group Taiwan Meetup](https://www.youtube.com/watch?v=4Kh6HAJjx7c) (April 2023)
 
-### Using the DevContainer in VS Code
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development container configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
 
-# Maintenance
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
 
-## Bugfixes and enhancements
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
-
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
