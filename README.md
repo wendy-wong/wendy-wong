@@ -45,7 +45,7 @@ Deliver data-driven decisions with AWS](https://www.linkedin.com/learning/delive
 
 • Peer Tutor at University of Technology Sydney Transition and Academic Support Team for [23567 Intermediate Microeconomics](https://www.uts.edu.au/courses/bachelor-of-economics) (Summer 2020)
 
-• Co-Facilitator at PwC Digital Academy (Spring 2019)
+• Co-Facilitator at PwC Digital Academy (September 2019)
 
 # Memberships
 
