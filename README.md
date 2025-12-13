@@ -18,21 +18,21 @@ My research interests include AI and Human Computer Interaction.
 • Technology Instructor at LinkedIn Learning for [Amazon Q in Connect: GenAI Contact Center
 AI-powered contact center with Amazon Q in Connect](https://www.linkedin.com/learning/amazon-q-in-connect-genai-contact-center/ai-powered-contact-center-with-amazon-q-in-connect?u=2087740) (March 2025)
 
-• Casual Lecturer at Kaplan Business School for [DATA4900 Marketing and Social Media Analytics](https://www.kbs.edu.au/courses/master-of-business-analytics-extension) 
+• Casual Lecturer at Kaplan Business School for [DATA4500 Marketing and Social Media Analytics](https://www.kbs.edu.au/courses/master-of-business-analytics-extension) 
 (T3 2024) (SYD1)(November 2024)
 
-• Casual Lecturer at Kaplan Business School for [DATA4500 Innovation and Creativity in Business Analytics](https://www.kbs.edu.au/courses/master-of-business-analytics-extension) (T3 2024) (SYD1)(November 2024)
+• Casual Lecturer at Kaplan Business School for [DATA4900 Innovation and Creativity in Business Analytics](https://www.kbs.edu.au/courses/master-of-business-analytics-extension) (T3 2024) (SYD1)(November 2024)
 
 • Technology Instructor at LinkedIn Learning for [Delivering Data-Driven Decisions with AWS: Applying Machine Learning, Data Engineering, and Generative AI
 Deliver data-driven decisions with AWS](https://www.linkedin.com/learning/delivering-data-driven-decisions-with-aws-applying-machine-learning-data-engineering-and-generative-ai/deliver-data-driven-decisions-with-aws?u=2087740) (January 2024)
 
-• Casual Lecturer at Kaplan Business School for [DATA4900 Marketing and Social Media Analytics](https://www.kbs.edu.au/courses/master-of-business-analytics-extension) 
+• Casual Lecturer at Kaplan Business School for [DATA4500 Marketing and Social Media Analytics](https://www.kbs.edu.au/courses/master-of-business-analytics-extension) 
 (T2 2024) (SYD1 and SYD2) (July 2024)
 
-• Casual Lecturer at Kaplan Business School for [DATA4900 Marketing and Social Media Analytics](https://www.kbs.edu.au/courses/master-of-business-analytics-extension) 
+• Casual Lecturer at Kaplan Business School for [DATA4500 Marketing and Social Media Analytics](https://www.kbs.edu.au/courses/master-of-business-analytics-extension) 
 (T1 2024) (SYD1 and SYD2) (March 2024)
 
-• Casual Lecturer at Kaplan Business School for [DATA4900 Marketing and Social Media Analytics](https://www.kbs.edu.au/courses/master-of-business-analytics-extension) 
+• Casual Lecturer at Kaplan Business School for [DATA4500 Marketing and Social Media Analytics](https://www.kbs.edu.au/courses/master-of-business-analytics-extension) 
 (T3 2023) (SYD1 and SYD2) (October 2023)
 
 • Lead Instructor at General Assembly Australia for [Data Analytics 12 Week Part-time course](https://generalassemb.ly/students/courses) (September 2022)
