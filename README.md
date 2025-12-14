@@ -2,7 +2,7 @@
 ## Ph.D candidate at UNSW Sydney
 ### wendy.wong@student.unsw.edu.au
 
-[![LinkedIn Profile](img.shields.io)(https://www.linkedin.com/in/wendywong7/))
+[![LinkedIn Profile](img.shields.io)](https://www.linkedin.com/in/wendywong7/)
 
 
 
