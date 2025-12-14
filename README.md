@@ -35,6 +35,8 @@ Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 
 
 • AWS Data Hero (2023)
 
+• AWS APAC Community Builder Of The Year (2022)
+
 
 # Teaching
 
