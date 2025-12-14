@@ -45,23 +45,13 @@ Deliver data-driven decisions with AWS](https://www.linkedin.com/learning/delive
 
 • Co-Facilitator at PwC Digital Academy (September 2019)
 
-# Memberships
-
-
-• WiRN Committee Member [Higher Degree Researcher Representative for Faculty of Engineering](https://www.unsw.edu.au/edi/diversity-inclusion/gender-equity/wirn-women-research-network/wirn-committee-members)(2025-2026)
-
-• Higher Degree Committee Member (Student Representative for Faculty of Engineering)(2025-2026)
-
-• Associate at [UNSW Disability Innovation Institute](https://www.disabilityinnovation.unsw.edu.au/ms-wendy-wong) (April 2025)
-
 
 # Recent Publications
 
 • [DiverseClaire: Simulating Students to Improve Introductory Programming Course Materials for All CS1 Learners](https://arxiv.org/abs/2511.14198) (arXiv) 
-Wendy Wong, Yuchao Jiang, Yuekang Li (Accepted poster for proceedings of SIGCSE TS 2026)
+Wendy Wong, Yuchao Jiang, Yuekang Li (Accepted poster for SIGCSE TS 2026)
 
 ![Diverseclaire 2](https://github.com/user-attachments/assets/71637b1e-e1f3-4047-95e2-4b9b0cb1b75f)
-
 
 • [Taxpayer Behavior Prediction in SMS Campaigns](https://dblp.org/db/conf/besc/besc2018.html) (IEEE)
 Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 5th BESC 2018: Kaohsiung, Taiwan)
