@@ -29,9 +29,11 @@ Wendy Wong, Yuchao Jiang, Yuekang Li (Accepted poster for SIGCSE TS 2026)
 • [Taxpayer Behavior Prediction in SMS Campaigns](https://dblp.org/db/conf/besc/besc2018.html) (IEEE)
 Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 5th BESC 2018: Kaohsiung, Taiwan)
 
-# Awards
+# Honour & Awards
 
 • LEAP Women in Engineering Top-Up Scholarship (2025)
+• AWS Data Hero (2023)
+
 
 # Academic Service
 
@@ -76,6 +78,7 @@ Deliver data-driven decisions with AWS](https://www.linkedin.com/learning/delive
 
 # Speaking
 
+• Speaker for poster presentation [SIGCSE TS 2026, Friday 20 Feb 2026 10:00 - 12:00](https://sigcse2026.sigcse.org/details/sigcse-ts-2026-posters/174/DiverseClaire-Simulating-Students-to-Improve-Introductory-Programming-Course-Materia)
 
 • Speaker for AWS Database & Analytics [AWS re:Invent 2025](https://www.linkedin.com/posts/aws-databases_awsreinvent-awsfordata-agenticai-activity-7395237736711954432-fVi7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAhwtxwBM2AtDyaKp_UAsMDaxMp2pmrjtkk) (November 2025)
 
