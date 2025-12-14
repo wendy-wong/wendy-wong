@@ -64,7 +64,7 @@ Wendy Wong, Yuchao Jiang, Yuekang Li (Accepted poster for proceedings of SIGCSE 
 
 
 • [Taxpayer Behavior Prediction in SMS Campaigns](https://dblp.org/db/conf/besc/besc2018.html) (IEEE)
-	Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 5th BESC 2018: Kaohsiung, Taiwan)
+Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 5th BESC 2018: Kaohsiung, Taiwan)
 
 
 # Speaking
