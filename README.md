@@ -1,7 +1,7 @@
 # Wendy Wong
 ## Ph.D candidate at UNSW Sydney
 ### wendy.wong@student.unsw.edu.au
-[![My LinkedIn Profile](img.shields.io)](www.linkedin.com)
+
 
 # About Me
 
