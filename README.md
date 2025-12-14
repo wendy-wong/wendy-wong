@@ -29,11 +29,15 @@ Wendy Wong, Yuchao Jiang, Yuekang Li (Accepted poster for SIGCSE TS 2026)
 • [Taxpayer Behavior Prediction in SMS Campaigns](https://dblp.org/db/conf/besc/besc2018.html) (IEEE)
 Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 5th BESC 2018: Kaohsiung, Taiwan)
 
-# Honour & Awards
+# Awards
 
-• AWS Data Hero (2023)
+• LEAP Women in Engineering Top-Up Scholarship (2025)
 
+# Academic Service
 
+• WiRN Committee Member - Diversity, Equity and Inclusion [Higher Degree Researcher Representative, Faculty of Engineering (2025-2026)](https://www.unsw.edu.au/edi/diversity-inclusion/gender-equity/wirn-women-research-network/wirn-committee-members)
+
+• HDC Member - Student Representative (Faculty of Engineering)(2025-2026)
 
 # Teaching
 
