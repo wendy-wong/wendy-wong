@@ -39,7 +39,7 @@ Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 
 
 • WiRN Committee Member - Diversity, Equity and Inclusion [Higher Degree Researcher Representative, Faculty of Engineering (2025-2026)](https://www.unsw.edu.au/edi/diversity-inclusion/gender-equity/wirn-women-research-network/wirn-committee-members)
 
-• HDC Member for Faculty of Engineering - Student Representative (2025-2026)
+• HDC Member for UNSW Faculty of Engineering - Student Representative (2025-2026)
 
 # Teaching
 
