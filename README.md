@@ -28,6 +28,17 @@ Wendy Wong, Yuchao Jiang, Yuekang Li (Accepted poster for SIGCSE TS 2026)
 • [Taxpayer Behavior Prediction in SMS Campaigns](https://dblp.org/db/conf/besc/besc2018.html) (IEEE)
 Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 5th BESC 2018: Kaohsiung, Taiwan)
 
+ 
+# Honour & Awards
+
+• LinkedIn Learning Instructor (2023)
+
+• AWS Data Hero (2023)
+
+• AWS APAC Community Builder oF The Year (2022)
+
+
+
 
 # Academic Service
 
