@@ -13,10 +13,17 @@
 
 # About Me
 
+I'm a PhD candidate in Computer Science at UNSW Sydney and a LinkedIn Learning 
+Instructor specializing in data science, machine learning, and AWS cloud 
+technologies. With 20+ years of industry experience and a track record of 
+teaching thousands of learners globally, I make complex technical concepts 
+accessible and actionable.
+
 I'm passionate about making technology education accessible to everyone. My 
 PhD research develops AI tools that help educators design better learning 
-experiences for students with diverse needs that directly informs my 
-teaching approach.
+experiences for students with diverse needs—work that directly informs my 
+teaching approach. As an AWS Data Hero, I'm committed to bridging the gap 
+between cutting-edge technology and practical skills that empower careers.
 
 
  
