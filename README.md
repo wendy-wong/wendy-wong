@@ -15,7 +15,7 @@
 
 I'm a PhD candidate in Computer Science at UNSW Sydney, where I research 
 AI-driven approaches to inclusive education. My work bridges cutting-edge 
-AI research with practical teaching applications—combining 10+ years of 
+AI research with practical teaching applications combining 10+ years of 
 industry experience with evidence-based pedagogy to help learners succeed.
 
 As a LinkedIn Learning Instructor and AWS Data Hero, I specialize in making 
