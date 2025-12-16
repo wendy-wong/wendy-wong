@@ -100,11 +100,9 @@ Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 
 
 • HDC Member for UNSW Faculty of Engineering - Student Representative (2025-2026)
 
-# Honour & Awards
+# Recognition
 
 • AWS Data Hero (2023)
-
-• PwC Digital Accelerator (2019)
 
 # Contact
 
