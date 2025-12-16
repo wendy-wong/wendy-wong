@@ -31,21 +31,12 @@ Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 
  
 # Honour & Awards
 
-• LinkedIn Learning Instructor (2023)
-
 • AWS Data Hero (2023)
 
+• PwC Digital Accelerator (2019)
 
 
-
-
-# Academic Service
-
-• WiRN Committee Member - Diversity, Equity and Inclusion [Higher Degree Researcher Representative, Faculty of Engineering (2025-2026)](https://www.unsw.edu.au/edi/diversity-inclusion/gender-equity/wirn-women-research-network/wirn-committee-members)
-
-• HDC Member for UNSW Faculty of Engineering - Student Representative (2025-2026)
-
-# Teaching
+# Teaching & Impact
 
 • Technology Instructor at LinkedIn Learning for [Text to SQL: Amazon Redshift Serverless for Generative SQL in Amazon Q](https://www.linkedin.com/learning/text-to-sql-amazon-redshift-serverless-for-generative-sql-in-amazon-q/text-to-sql-with-amazon-q?u=2087740) (June 2025)
 
@@ -111,6 +102,11 @@ Deliver data-driven decisions with AWS](https://www.linkedin.com/learning/delive
 • Speaker at AWS User Group Taiwan [2023-04 AWS User Group Taiwan Meetup](https://www.youtube.com/watch?v=4Kh6HAJjx7c) (April 2023)
 
 
+# Academic Service
+
+• WiRN Committee Member - Diversity, Equity and Inclusion [Higher Degree Researcher Representative, Faculty of Engineering (2025-2026)](https://www.unsw.edu.au/edi/diversity-inclusion/gender-equity/wirn-women-research-network/wirn-committee-members)
+
+• HDC Member for UNSW Faculty of Engineering - Student Representative (2025-2026)
 
 
 
