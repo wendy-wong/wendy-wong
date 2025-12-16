@@ -96,9 +96,11 @@ Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 
 • Speaker at AWS User Group Taiwan [2023-04 AWS User Group Taiwan Meetup](https://www.youtube.com/watch?v=4Kh6HAJjx7c) (April 2023)
 
 
-# Recognition
+# Awards & Honors
 
 • AWS Data Hero (2023)
+
+• PwC Digital Academy (2019)
 
 # Contact
 
