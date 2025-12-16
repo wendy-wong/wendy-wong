@@ -24,9 +24,7 @@ science, machine learning, and cloud technologies, reaching thousands of
 learners globally through courses, workshops, and university lectures.
 
 My research focuses on using AI to create more inclusive computer science 
-education, particularly for learners with diverse needs. I'm passionate about 
-closing the gap between what we know from learning science and how we teach 
-technology.
+education. 
 
 
  
