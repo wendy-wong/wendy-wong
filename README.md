@@ -15,7 +15,7 @@
 
 I am a first-year PhD student in Computer Science at The University of New South Wales advised by [Dr Yuchao Jiang](https://research.unsw.edu.au/people/ms-yuchao-jiang), 
 [Dr Yuekang Li](https://www.unsw.edu.au/staff/yuekang-li) and [Associate Professor Yulei Sui](https://www.unsw.edu.au/staff/yulei-sui). 
-My research interests include AI and Human Computer Interaction. Before coming to UNSW, I completed a Master's degree in Data Science and Innovation at the University of Technology Sydney and have over 10 years industry experience in data science and analytics.
+My research interests include AI and Human Computer Interaction. Before coming to UNSW, I completed a Master's degree in Data Science and Innovation at the University of Technology Sydney and have over 10+ years industry experience in data science and analytics.
 
  
 # Recent Publications
