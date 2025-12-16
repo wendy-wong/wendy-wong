@@ -13,18 +13,10 @@
 
 # About Me
 
-I'm a PhD candidate in Computer Science at UNSW Sydney, where I research 
-AI-driven approaches to inclusive education. My work bridges cutting-edge 
-AI research with practical teaching applications combining 10+ years of 
-industry experience with evidence-based pedagogy to help learners succeed.
-
-As a LinkedIn Learning Instructor and AWS Data Hero, I specialize in making 
-complex technical concepts accessible and actionable. My teaching spans data 
-science, machine learning, and cloud technologies, reaching thousands of 
-learners globally through courses, workshops, and university lectures.
-
-My research focuses on using AI to create more inclusive computer science 
-education. 
+I'm passionate about making technology education accessible to everyone. My 
+PhD research develops AI tools that help educators design better learning 
+experiences for students with diverse needs that directly informs my 
+teaching approach.
 
 
  
@@ -103,12 +95,6 @@ Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 
 
 • Speaker at AWS User Group Taiwan [2023-04 AWS User Group Taiwan Meetup](https://www.youtube.com/watch?v=4Kh6HAJjx7c) (April 2023)
 
-
-# Academic Service
-
-• WiRN Committee Member - Diversity, Equity and Inclusion [Higher Degree Researcher Representative, Faculty of Engineering (2025-2026)](https://www.unsw.edu.au/edi/diversity-inclusion/gender-equity/wirn-women-research-network/wirn-committee-members)
-
-• HDC Member for UNSW Faculty of Engineering - Student Representative (2025-2026)
 
 # Recognition
 
