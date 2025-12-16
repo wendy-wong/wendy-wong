@@ -18,7 +18,7 @@ I am a first-year PhD student in Computer Science at The University of New South
 My research interests include AI and Human Computer Interaction. Before coming to UNSW, I completed a Master's degree in Data Science and Innovation at the University of Technology Sydney and have over 10+ years industry experience in data science and analytics.
 
  
-# Recent Publications
+# Publications
 
 • [DiverseClaire: Simulating Students to Improve Introductory Programming Course Materials for All CS1 Learners](https://arxiv.org/abs/2511.14198) (arXiv) 
 Wendy Wong, Yuchao Jiang, Yuekang Li (Accepted poster for SIGCSE TS 2026)
@@ -36,7 +36,7 @@ Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 
 • PwC Digital Accelerator (2019)
 
 
-# Teaching & Impact
+# Teaching
 
 • Technology Instructor at LinkedIn Learning for [Text to SQL: Amazon Redshift Serverless for Generative SQL in Amazon Q](https://www.linkedin.com/learning/text-to-sql-amazon-redshift-serverless-for-generative-sql-in-amazon-q/text-to-sql-with-amazon-q?u=2087740) (June 2025)
 
