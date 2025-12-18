@@ -22,7 +22,38 @@ accessible and actionable.
 I'm passionate about making technology education accessible to everyone.  As an AWS Data Hero, I'm committed to bridging the gap 
 between cutting-edge technology and practical skills that empower careers.
 
+# Projects and Technical Work
+## Projects & Technical Work
 
+### DiverseClaire - AI-Powered Learner Simulation System
+Developed an innovative system using large language model agents to simulate diverse learner profiles (dyslexia, ADHD, autism, dyscalculia) for testing educational interventions in introductory programming courses. The system enables educators to conduct rapid design iterations through AI-simulated student interactions, improving course materials for inclusive education.
+
+**Technologies:** Python, LangChain, OpenAI API, prompt engineering, Action Design Research methodology  
+**Impact:** Successfully tested across 8 design cycles; accepted research poster at SIGCSE TS 2026  
+[ArXiv Paper](https://arxiv.org/abs/2511.14198)
+
+---
+
+### AWS Generative AI & Data Analytics Solutions
+Built and deployed production-ready implementations of AWS analytics and generative AI services featured in LinkedIn Learning courses. Created end-to-end demonstrations including generative SQL with Amazon Q, real-time analytics dashboards with QuickSight, and AI-powered contact center solutions.
+
+**Technologies:** Amazon Redshift Serverless, Amazon Q, QuickSight, AWS Connect, Lambda, Python, SQL  
+**Impact:** Course materials used by thousands of learners globally; featured speaker at AWS re:Invent 2023 & 2025
+
+---
+
+### Marketing Analytics Curriculum & Projects
+Designed and delivered comprehensive marketing and social media analytics curriculum with hands-on projects for university students. Built end-to-end analytics pipelines covering data collection, visualization, and predictive modeling for real-world campaigns.
+
+**Technologies:** Python, R, Tableau, statistical modeling, social media APIs  
+**Impact:** Taught 100+ students across multiple cohorts at Kaplan Business School
+
+---
+
+### Coffee n Learn Newsletter
+Created and maintain a technical newsletter translating complex data science, ML, and cloud computing concepts into accessible content. Builds community engagement through consistent delivery of practical tutorials and career guidance.
+
+**Impact:** Growing subscriber base of data professionals; complements formal teaching with asynchronous learning
  
 # Teaching
 
