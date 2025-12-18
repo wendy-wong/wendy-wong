@@ -23,7 +23,6 @@ I'm passionate about making technology education accessible to everyone.  As an 
 between cutting-edge technology and practical skills that empower careers.
 
 # Projects and Technical Work
-## Projects & Technical Work
 
 ### DiverseClaire - AI-Powered Learner Simulation System
 Developed an innovative system using large language model agents to simulate diverse learner profiles (dyslexia, ADHD, autism, dyscalculia) for testing educational interventions in introductory programming courses. The system enables educators to conduct rapid design iterations through AI-simulated student interactions, improving course materials for inclusive education.
