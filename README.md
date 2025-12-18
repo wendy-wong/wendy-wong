@@ -1,5 +1,5 @@
 # Wendy Wong
-## Ph.D candidate at UNSW Sydney
+## Ph.D candidate at UNSW Sydney and LinkedIn Learning Instructor
 
 
 
