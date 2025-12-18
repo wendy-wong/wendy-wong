@@ -115,7 +115,7 @@ Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 
 
 • Speaker at AWS Training and Certification [Data Analyst learns generative AI skills with AWS Skill Builder subscription](https://www.youtube.com/watch?v=wxXmmE0mxMU) (March 2024
 
-• Speaker for Amazon Web Services Dev:Ember(December 2023)
+• Speaker for Amazon Web Services Dev:Ember (December 2023)
 
 • Speaker at MongoDB [AWS re:Invent 2023](https://www.linkedin.com/posts/activity-7131027420421226497-QCyR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAhwtxwBM2AtDyaKp_UAsMDaxMp2pmrjtkk) (Decemer 2023)
 
