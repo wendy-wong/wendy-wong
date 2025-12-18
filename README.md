@@ -22,7 +22,7 @@ accessible and actionable.
 I'm passionate about making technology education accessible to everyone.  As an AWS Data Hero, I'm committed to bridging the gap 
 between cutting-edge technology and practical skills that empower careers.
 
-# Projects and Technical Work
+# Projects & Technical Work
 
 ### DiverseClaire - AI-Powered Learner Simulation System
 Developed an innovative system using large language model agents to simulate diverse learner profiles (dyslexia, ADHD, autism, dyscalculia) for testing educational interventions in introductory programming courses. The system enables educators to conduct rapid design iterations through AI-simulated student interactions, improving course materials for inclusive education.
@@ -37,7 +37,7 @@ Developed an innovative system using large language model agents to simulate div
 Built and deployed production-ready implementations of AWS analytics and generative AI services featured in LinkedIn Learning courses. Created end-to-end demonstrations including generative SQL with Amazon Q, real-time analytics dashboards with QuickSight, and AI-powered contact center solutions.
 
 **Technologies:** Amazon Redshift Serverless, Amazon Q, QuickSight, AWS Connect, Lambda, Python, SQL  
-**Impact:** Course materials used by thousands of learners globally; featured speaker at AWS re:Invent 2023 & 2025
+**Impact:** Course materials used by thousands of learners globally; featured speaker at AWS re:Invent 2023 & 2025 for AWS Databases & Analytics
 
 ---
 
