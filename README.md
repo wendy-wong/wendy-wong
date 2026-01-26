@@ -13,7 +13,7 @@
 
 # About Me
 
-I'm a PhD candidate in Computer Science at UNSW Sydney and a LinkedIn Learning 
+I'm a Second Year PhD candidate in Computer Science at UNSW Sydney and a LinkedIn Learning 
 Instructor specializing in data science, machine learning, and AWS cloud 
 technologies. With 10+ years of industry experience and a track record of 
 teaching thousands of learners globally, I make complex technical concepts 
