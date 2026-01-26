@@ -1,5 +1,5 @@
 # Wendy Wong
-## AWS Data Hero | Technical Educator - 11K+ Learners | 20+ Years Industry Experience
+## Second Year PhD Candidate at UNSW Sydney| LinkedIn Learning Instructor | Industry Experience
 
 
 
