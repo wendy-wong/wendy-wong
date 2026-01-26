@@ -1,5 +1,5 @@
 # Wendy Wong
-## Second Year PhD Candidate at UNSW Sydney| LinkedIn Learning Instructor | Industry Experience
+## PhD Candidate at UNSW Sydney | LinkedIn Learning Instructor 
 
 
 
