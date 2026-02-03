@@ -1,5 +1,5 @@
 # Wendy Wong
-## PhD Candidate at UNSW Sydney | LinkedIn Learning Instructor 
+## PhD Candidate in CS Education at UNSW Sydney | Inclusive AI Education Researcher | LinkedIn Learning Instructor
 
 
 
