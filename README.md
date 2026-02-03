@@ -13,14 +13,7 @@
 
 # About Me
 
-I'm a Second Year PhD candidate in Computer Science at UNSW Sydney and a LinkedIn Learning 
-Instructor specializing in data science, machine learning, and AWS cloud 
-technologies. With 10+ years of industry experience and a track record of 
-teaching thousands of learners globally, I make complex technical concepts 
-accessible and actionable.
-
-I'm passionate about making technology education accessible to everyone.  As an AWS Data Hero, I'm committed to bridging the gap 
-between cutting-edge technology and practical skills that empower careers.
+I'm a PhD candidate in Computer Science at UNSW Sydney, researching inclusive AI education through my DiverseClaire system—an LLM-powered platform that simulates diverse learner profiles to improve CS1 programming course design.As a LinkedIn Learning Instructor, I've taught 11,000+ learners globally across courses on AWS, data science, and machine learning. I'm also an AWS Data Hero recognized for contributions to the data and AI community.My work bridges research and practice: I use Action Design Research methodology to develop evidence-based tools that make computer science education accessible to all learners, including those with neurodevelopmental differences.Research interests: Inclusive education, CS1 pedagogy, Universal Design for Learning, LLM applications in education, accessible computing educationCommunity: Founder of Women in Big Data Sydney | WiDS Ambassador | HDR Representative at UNSW Engineering
 
 # Projects & Technical Work
 
