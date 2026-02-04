@@ -8,7 +8,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wendy_wong7)
 [![AWS Data Hero](https://img.shields.io/badge/AWS_Data_Hero-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://builder.aws.com/community/heroes/WendyWong)
 [![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/search?keywords=wendy%20wong)
-[![UNSW Sydney](https://img.shields.io/badge/UNSW_Sydney-FFCD00?style=for-the-badge&logoColor=black)](https://www.disabilityinnovation.unsw.edu.au/ms-wendy-wong)
+
 
 
 
