@@ -28,6 +28,8 @@ Community: Founder of Women in Big Data Sydney | Women in Data Science (WiDS) Sy
 ### DiverseClaire - AI-Powered Learner Simulation System
 Developed an innovative system using large language model agents to simulate diverse learner profiles (dyslexia, ADHD, autism, dyscalculia) for testing educational interventions in introductory programming courses. The system enables educators to conduct rapid design iterations through AI-simulated student interactions, improving course materials for inclusive education.
 
+This research has been accepted for presentation at SIGCSE TS 2026 (poster + demo) and published as a preprint on arXiv.
+
 **Technologies:** Python programming, Claude 4 Sonnet, OpenAI GPT-4o, Geminin 2 Pro, RAG, prompt engineering, Action Design Research methodology  
 **Impact:** Successfully tested experiments across 8 design cycles; accepted research poster at SIGCSE TS 2026  
 [ArXiv Paper](https://arxiv.org/abs/2511.14198)
