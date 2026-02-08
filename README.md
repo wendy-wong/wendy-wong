@@ -18,9 +18,6 @@ I'm a PhD candidate in Computer Science at UNSW Sydney, researching inclusive AI
 
 As a LinkedIn Learning Instructor, I've taught 11,500+ learners globally across courses on AWS, data science, and machine learning. I'm also an AWS Data Hero recognized for contributions to the data and AI community.
 
-My work bridges research and practice: I use Action Design Research methodology to develop evidence-based tools that make computer science education accessible to all learners, including those with neurodevelopmental differences.
-
-Community: Founder of Women in Big Data Sydney | Women in Data Science (WiDS) Sydney Ambassador | Higher Degree Researcher Representative at WiRN: Women in Research Network - UNSW, Engineering | Higher Degree Committee Member (HDC), Faculty of Engineering, UNSW
 
 # Projects & Technical Work
 
