@@ -67,10 +67,7 @@ Courses on:
 Kaplan Business School
 - DATA4500 Marketing & Social Media Analytics (multiple terms)
 - DATA4900 Innovation & Creativity in Business Analytics
-UNSW & USYD (Casual Academic)
 - Teaching programming and data foundations in postgraduate coursework
-Community Learning
-
 ---
 
 ### AWS Generative AI & Data Analytics Solutions
