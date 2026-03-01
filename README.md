@@ -171,12 +171,11 @@ Guiming Cao, Alan Downes, Shuraia Khan, Wendy Wong, Guandong Xu (Proceedings of 
 
 # Awards & Honors
 
+• LEAP Women in Engineering Scholarship (2025)
 • AWS Data Hero (2023)
+• AWS Community Builder of the Year (2022)
+• PwC Digital Digital Accelerator (2019)
 
-• PwC Digital Academy (2019)
 
-# Contact
-
-### wendy.wong@student.unsw.edu.au
 
 </div>
