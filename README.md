@@ -47,6 +47,29 @@ This research has been accepted for presentation at SIGCSE TS 2026 (poster + dem
 **Impact:** Successfully tested experiments across 8 design cycles; accepted research poster at SIGCSE TS 2026  
 [ArXiv Paper](https://arxiv.org/abs/2511.14198)
 
+# Teaching and Cloud Education
+
+I design and teach practical, inclusive learning experiences across AI, data, and cloud — in universities, global platforms, and community spaces.
+
+## LinkedIn Learning Instructor
+Courses on:
+- Text to SQL with Amazon Redshift Serverless
+- Amazon Q in Connect (GenAI Contact Center)
+- Delivering Data‑Driven Decisions with AWS (ML, data engineering, GenAI)
+
+## AWS Community Education
+- AWS Data Hero
+- Speaker at AWS Summit Australia & New Zealand
+- Creator of hands‑on tutorials for Amazon Q and cloud‑based ML workflows
+- 
+## University Teaching
+Kaplan Business School
+- DATA4500 Marketing & Social Media Analytics (multiple terms)
+- DATA4900 Innovation & Creativity in Business Analytics
+UNSW & USYD (Casual Academic)
+- Teaching programming and data foundations in postgraduate coursework
+Community Learning
+
 ---
 
 ### AWS Generative AI & Data Analytics Solutions
@@ -57,7 +80,7 @@ Built and deployed production-ready implementations of AWS analytics and generat
 
 ---
 
-### Marketing Analytics Curriculum & Projects
+### Marketing Analytics Curriculum 
 Designed and delivered comprehensive marketing and social media analytics curriculum with hands-on projects for university students. Built end-to-end analytics pipelines covering data collection, visualization, and predictive modeling for real-world campaigns.
 
 **Technologies:** Python, R, Tableau, statistical modeling, social media APIs  
