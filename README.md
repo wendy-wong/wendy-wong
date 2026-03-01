@@ -62,7 +62,7 @@ Courses on:
 - AWS Data Hero
 - Speaker at AWS Summit Australia & New Zealand
 - Creator of hands‑on tutorials for Amazon Q and cloud‑based ML workflows
-- 
+  
 ## University Teaching
 Kaplan Business School
 - DATA4500 Marketing & Social Media Analytics (multiple terms)
