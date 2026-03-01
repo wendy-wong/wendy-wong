@@ -14,9 +14,26 @@
 
 # About Me
 
-I'm a PhD candidate in Computer Science at UNSW Sydney, researching inclusive AI education through my DiverseClaire system—an LLM-powered platform that simulates diverse learner profiles to improve CS1 programming course design.
+Hi, I’m Wendy — an educator and researcher designing practical, inclusive learning experiences in AI, data, and cloud.
 
-As a LinkedIn Learning Instructor, I've taught 11,500+ learners globally across courses on AWS, data science, and machine learning. I'm also an AWS Data Hero recognized for contributions to the data and AI community.
+I’m a PhD Candidate at UNSW Engineering, where I explore how AI can better support diverse learners in introductory computing. My current research project, DiverseClaire, uses large language model agents to simulate learner profiles (e.g., dyslexia, ADHD, autism, dyscalculia) to help educators test and refine teaching strategies before they reach the classroom.
+
+Alongside my research, I teach globally as an AWS Data Hero and LinkedIn Learning Instructor, creating courses on machine learning, data engineering, and generative AI. Across these platforms, I’ve supported more than 11,500 learners in building practical confidence with cloud and AI tools.
+
+I care deeply about making technical learning feel accessible, human, and supportive — especially for people who are new to the field. My work spans university teaching, cloud education, and community learning through my Coffee n Learn newsletter.
+
+**Interests**
+- Inclusive AI education  
+- Cloud learning experiences (AWS, GenAI, data engineering)  
+- Practical teaching for beginners  
+- LLMs, agent-based simulation, and educational design  
+
+**Current Projects**
+- **DiverseClaire** — AI-powered learner simulation system for CS1 education  
+- **LinkedIn Learning courses** — Amazon Q, Redshift Serverless, ML & data engineering  
+- **Coffee n Learn** — monthly newsletter on AI, data, and cloud learning  
+
+Thanks for visiting — I’m always happy to connect with educators, researchers, and cloud learners.
 
 
 # Projects & Technical Work
