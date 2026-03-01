@@ -14,7 +14,7 @@
 
 # About Me
 
-Hi, I’m Wendy — an educator and researcher designing practical, inclusive learning experiences in AI, data, and cloud.
+Hi, I’m Wendy an educator and researcher designing practical, inclusive learning experiences in AI, data, and cloud.
 
 I’m a PhD Candidate at UNSW Engineering, where I explore how AI can better support diverse learners in introductory computing. My current research project, DiverseClaire, uses large language model agents to simulate learner profiles (e.g., dyslexia, ADHD, autism, dyscalculia) to help educators test and refine teaching strategies before they reach the classroom.
 
