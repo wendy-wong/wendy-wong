@@ -49,9 +49,9 @@ This research has been accepted for presentation at SIGCSE TS 2026 (poster + dem
 **Impact:** Successfully tested experiments across 8 design cycles; accepted research poster at SIGCSE TS 2026  
 [ArXiv Paper](https://arxiv.org/abs/2511.14198)
 
-# Teaching and Cloud Education
+# Teaching and Technical Education
 
-I design and teach practical, inclusive learning experiences across AI, data, and cloud — in universities, global platforms, and community spaces.
+I design and teach practical, inclusive learning experiences across AI, data, and cloud in universities, global platforms, and community spaces.
 
 ## LinkedIn Learning Instructor
 Courses on:
@@ -64,12 +64,11 @@ Courses on:
 - Speaker at AWS Summit Australia & New Zealand
 - Creator of hands‑on tutorials for Amazon Q and cloud‑based ML workflows
   
-## University Teaching
+## Higher Education
 Kaplan Business School
 - DATA4500 Marketing & Social Media Analytics (multiple terms)
 - DATA4900 Innovation & Creativity in Business Analytics
 - Teaching programming and data analytics in postgraduate coursework
----
 
 ### AWS Generative AI & Data Analytics Solutions
 Built and deployed production-ready implementations of AWS analytics and generative AI services featured in LinkedIn Learning courses. Created end-to-end demonstrations including generative SQL with Amazon Q, real-time analytics dashboards with QuickSight, and AI-powered contact center solutions.
