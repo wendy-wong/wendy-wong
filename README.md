@@ -1,16 +1,15 @@
 # Wendy Wong
 ## PhD Candidate, UNSW Engineering | AI & Data Educator | AWS Data Hero | LinkedIn Learning Instructor
 
-
-
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendywong7/)
 [![Coffee n Learn](https://img.shields.io/badge/Coffee_n_Learn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/coffee-n-learn-7148606301307031552/)
+[![Becoming: Women in Engineering](https://img.shields.io/badge/Becoming_Women_in_Engineering-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/becoming-women-in-engineering-7375322928801861632/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=ugjUmlIAAAAJ&hl=en)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/abc_wendsss)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@wendy_wong7)
 [![AWS Data Hero](https://img.shields.io/badge/AWS_Data_Hero-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://builder.aws.com/community/heroes/WendyWong)
 [![LinkedIn Learning](https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/learning/search?keywords=wendy%20wong)
+
 
 
 
