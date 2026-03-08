@@ -31,11 +31,11 @@ I care deeply about making technical learning feel accessible, human, and suppor
 - LLMs, agent-based simulation, and educational design  
 
 **Current Projects**
-- **DiverseClaire** — AI-powered learner simulation system for CS1 education  
-- **LinkedIn Learning courses** — Amazon Q, Redshift Serverless, ML & data engineering  
-- **Coffee n Learn** — monthly newsletter on AI, data, and cloud learning  
+- **DiverseClaire** AI-powered learner simulation system for CS1 education  
+- **LinkedIn Learning courses** Amazon Q, Redshift Serverless, ML & data engineering  
+- **Coffee n Learn** monthly newsletter on AI, data, and cloud learning  
 
-Thanks for visiting — I’m always happy to connect with educators, researchers, and cloud learners.
+Thanks for visiting, I’m always happy to connect with educators, researchers, and cloud learners.
 
 
 # Projects & Technical Work
