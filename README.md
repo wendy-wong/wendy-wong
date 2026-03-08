@@ -68,7 +68,7 @@ Courses on:
 Kaplan Business School
 - DATA4500 Marketing & Social Media Analytics (multiple terms)
 - DATA4900 Innovation & Creativity in Business Analytics
-- Teaching programming and data foundations in postgraduate coursework
+- Teaching programming and data analytics in postgraduate coursework
 ---
 
 ### AWS Generative AI & Data Analytics Solutions
@@ -83,7 +83,7 @@ Built and deployed production-ready implementations of AWS analytics and generat
 Designed and delivered comprehensive marketing and social media analytics curriculum with hands-on projects for university students. Built end-to-end analytics pipelines covering data collection, visualization, and predictive modeling for real-world campaigns.
 
 **Technologies:** Python, R, Tableau, statistical modeling, social media APIs  
-**Impact:** Taught 100+ students across multiple cohorts at Kaplan Business School
+**Impact:** Taught 240+ students across four trimesters at Kaplan Business School
 
 ---
 
