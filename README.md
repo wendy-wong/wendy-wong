@@ -1,5 +1,5 @@
 # Wendy Wong
-## AI & Data Educator | AWS Data Hero | LinkedIn Learning Instructor | PhD Candidate, UNSW Engineering
+## PhD Candidate, UNSW Engineering | AI & Data Educator | AWS Data Hero | LinkedIn Learning Instructor
 
 
 
