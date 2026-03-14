@@ -16,7 +16,7 @@
 
 Hi, I’m Wendy an educator designing practical, inclusive learning experiences in AI, data science and cloud.
 
-I teach globally as an AWS Data Hero and LinkedIn Learning Instructor, creating courses on machine learning, data engineering, and generative AI. Across these platforms, I’ve supported more than 11,500 learners in building practical confidence with cloud and AI tools.
+I teach globally as an AWS Data Hero and LinkedIn Learning Instructor, creating courses on machine learning, data engineering, and generative AI.
 
 **Current Projects**
 - **LinkedIn Learning courses** Amazon Q, Redshift Serverless, ML & data engineering  
