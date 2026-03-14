@@ -24,10 +24,6 @@ I teach globally as an AWS Data Hero and LinkedIn Learning Instructor, creating 
 
 Thanks for visiting, I’m always happy to connect with educators, researchers, and cloud learners.
 
-# Teaching and Technical Education
-
-I design and teach practical, inclusive learning experiences across AI, data, and cloud in universities, global platforms, and community spaces.
-
 ## LinkedIn Learning Instructor
 Courses on:
 - Text to SQL with Amazon Redshift Serverless
