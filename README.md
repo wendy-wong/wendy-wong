@@ -24,17 +24,6 @@ I teach globally as an AWS Data Hero and LinkedIn Learning Instructor, creating 
 
 Thanks for visiting, I’m always happy to connect with educators, researchers, and cloud learners.
 
-# Projects & Technical Work
-
-### DiverseClaire - AI-Powered Learner Simulation System
-Developed an innovative system using large language model agents to simulate diverse learner profiles (dyslexia, ADHD, autism, dyscalculia) for testing educational interventions in introductory programming courses. The system enables educators to conduct rapid design iterations through AI-simulated student interactions, improving course materials for inclusive education.
-
-This research has been accepted for presentation at SIGCSE TS 2026 (poster + demo) and published as a preprint on arXiv.
-
-**Technologies:** Python programming, Claude 4 Sonnet, OpenAI GPT-4o, Geminin 2 Pro, RAG, prompt engineering, Action Design Research methodology  
-**Impact:** Successfully tested experiments across 8 design cycles; accepted research poster at SIGCSE TS 2026  
-[ArXiv Paper](https://arxiv.org/abs/2511.14198)
-
 # Teaching and Technical Education
 
 I design and teach practical, inclusive learning experiences across AI, data, and cloud in universities, global platforms, and community spaces.
