@@ -16,7 +16,8 @@
 
 Hi, I'm Wendy - a PhD researcher at UNSW Engineering designing AI systems for inclusive computer science education.
 I designed and built DiverseClaire as part of my PhD research, a simulation system that uses generative AI to model neurodiverse learner behaviour, helping educators design CS1 course materials that work for all students. Published at SIGCSE TS 2026 and selected for the ACM Showcase on Kudos.
-I also teach globally as an AWS Data Hero and LinkedIn Learning Instructor, creating courses on machine learning, data engineering, and generative AI.AI.
+
+I also teach globally as an AWS Data Hero and LinkedIn Learning Instructor, creating courses on machine learning, data engineering, and generative AI.
 
 **Current Projects**
 - **LinkedIn Learning courses** Amazon Q, Redshift Serverless, ML & data engineering  
