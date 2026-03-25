@@ -19,6 +19,12 @@ I designed and built DiverseClaire as part of my PhD research, a simulation syst
 
 I also teach globally as an AWS Data Hero and LinkedIn Learning Instructor, creating courses on machine learning, data engineering, and generative AI.
 
+• Designed and built DiverseClaire as part of my PhD research - a simulation system that uses generative AI to model neurodiverse learner behaviour, helping educators design CS1 course materials that work for all students.
+
+• Represented UNSW School of Computer Science & Engineering at SIGCSE TS 2026 in St Louis, one of the leading international venues in computer science education research, presenting a poster and live demo of DiverseClaire. Attendance and travel self-funded. Work selected for the ACM Showcase on Kudos following the symposium.
+
+• Preprint available on arXiv (2511.14198): DiverseClaire: Simulating Students to Improve Introductory Programming Course Materials for All CS1 Learners. Published November 2025.
+
 **Current Projects**
 - **LinkedIn Learning courses** Amazon Q, Redshift Serverless, ML & data engineering  
 - **Coffee n Learn** monthly newsletter on AI, data, and cloud learning  
