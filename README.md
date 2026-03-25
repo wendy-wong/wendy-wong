@@ -14,10 +14,10 @@
 
 # About Me
 
-Hi, I'm Wendy — a PhD researcher at UNSW Engineering designing AI 
+Hi, I'm Wendy - a PhD researcher at UNSW Engineering designing AI 
 systems for inclusive computer science education.
 
-- Designed and built **DiverseClaire** as part of my PhD research — a simulation system that uses generative AI to model neurodiverse 
+- Designed and built **DiverseClaire** as part of my PhD research - a simulation system that uses generative AI to model neurodiverse 
 learner behaviour, helping educators design CS1 course materials that work for all students.
 
 - Represented UNSW School of Computer Science & Engineering at SIGCSE TS 2026 in St Louis, presenting a poster and live demo of DiverseClaire - poster attendance and travel was self-funded.
