@@ -14,16 +14,12 @@
 
 # About Me
 
-Hi, I'm Wendy - a PhD researcher at UNSW Engineering designing AI 
-systems for inclusive computer science education.
+Hi, I'm Wendy — an educator and researcher exploring how AI can support more inclusive learning experiences in computer science education.
+My work sits at the intersection of teaching, data, cloud, and AI. I’m interested in how emerging technologies can help educators better understand diverse learner needs and design more accessible learning materials.
 
-- Designed and built **DiverseClaire** as part of my PhD research - a simulation system that uses generative AI to model neurodiverse 
-learner behaviour, helping educators design CS1 course materials that work for all students.
+Alongside my academic research, I bring industry experience into the classroom and community. I’m an AWS Data Hero and LinkedIn Learning Instructor with 12,000+ learners across three courses, and I write Coffee n Learn, a gentle learning series on AI, data, and cloud.
+I’ve contributed to community initiatives supporting women in data and technology across APAC, including founding Women in Big Data Sydney and partnering with Stanford University on regional WiDS events.
 
-- Represented UNSW School of Computer Science & Engineering at SIGCSE TS 2026 in St Louis, presenting a poster and live demo of DiverseClaire - poster attendance and travel was self-funded.
-- Work selected for the ACM Showcase on Kudos following the symposium.
-- Preprint published on arXiv November 2025 (2511.14198), predating the SIGCSE submission.
-- AWS Data Hero and LinkedIn Learning Instructor with 12,000+ learners across three courses.
 
 **Current Projects**
 - **LinkedIn Learning courses** Amazon Q, Redshift Serverless, ML & data engineering  
