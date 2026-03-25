@@ -1,5 +1,5 @@
 # Wendy Wong
-## Digital Transformation | Cloud & AI | AWS Community
+## CS Education Researcher | AWS Data Hero | LinkedIn Learning Instructor
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendywong7/)
 [![Coffee n Learn](https://img.shields.io/badge/Coffee_n_Learn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/coffee-n-learn-7148606301307031552/)
