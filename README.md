@@ -1,5 +1,5 @@
 # Wendy Wong
-## Data & AI Educator | AWS Data Hero | LinkedIn Learning Instructor | PhD Researcher
+## Data & AI Educator | AWS Data Hero | LinkedIn Learning Instructor | PhD Candidate
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendywong7/)
