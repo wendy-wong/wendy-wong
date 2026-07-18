@@ -18,7 +18,7 @@
 Hi, I'm Wendy — an educator and researcher exploring how AI can support more inclusive learning experiences in computer science education.
 My work sits at the intersection of teaching, data, cloud, and AI. I’m interested in how emerging technologies can help educators better understand diverse learner needs and design more accessible learning materials.
 
-Alongside my academic research, I bring industry experience into the classroom and community. I’m an AWS Data Hero and LinkedIn Learning Instructor with 13,500+ learners across three courses, and I write Coffee n Learn, a gentle learning series on AI, data, and cloud.
+Alongside my academic research, I bring industry experience into the classroom and community. I’m an AWS Data Hero and LinkedIn Learning Instructor with 13,800+ learners across three courses, and I write Coffee n Learn, a gentle learning series on AI, data, and cloud.
 I’ve contributed to community initiatives supporting women in data and technology across APAC, including founding Women in Big Data Sydney and partnering with Stanford University on regional WiDS events.
 
 
